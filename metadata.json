@@ -1,0 +1,6 @@
+{
+  "name": "Trading Alerts & Predictions Dashboard",
+  "description": "Real-time Forex, Stock and Crypto trading alerts and predictive dashboard powered by AI-driven sentiment analysis and search-grounded market trends.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
